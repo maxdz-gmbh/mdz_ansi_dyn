@@ -1,0 +1,39 @@
+08.10.2024: Release 0.1
+-----------------------
+
+Added functions:
+
+- ansi_dyn_init
+- ansi_dyn_setAllocFunctions
+- ansi_dyn_create
+- ansi_dyn_attach
+- ansi_dyn_destroy
+
+- ansi_dyn_sizeMetadata
+- ansi_dyn_size
+- ansi_dyn_capacity
+- ansi_dyn_data
+- ansi_dyn_dataConst
+
+- ansi_dyn_insert
+
+- ansi_dyn_findSingle
+- ansi_dyn_find
+- ansi_dyn_rfindSingle
+- ansi_dyn_rfind
+- ansi_dyn_firstOf
+- ansi_dyn_firstNotOf
+- ansi_dyn_lastOf
+- ansi_dyn_lastNotOf
+
+- ansi_dyn_removeFrom
+- ansi_dyn_remove
+- ansi_dyn_trimLeft
+- ansi_dyn_trimRight
+- ansi_dyn_trim
+  
+- ansi_dyn_compare
+  
+- ansi_dyn_count
+- ansi_dyn_replace
+- ansi_dyn_reverse
